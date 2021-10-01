@@ -2,7 +2,7 @@ package ru.mirea;
 
 import java.util.*;
 
-public class App {
+public class MergeSort {
   private static final Scanner IN = new Scanner(System.in);
 
   private static String[] helper;
